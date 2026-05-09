@@ -8,7 +8,7 @@
   "server": {
     "ip": "Crescents.aternos.me",
     "port": 25916,
-    "version": "",
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1499241854149984406/2gLcYPfT-9FCMij-smIKWc9R9WAuPLLM0675zfVVBGMYWJxW15g2z0NmcxdVlkz4kebr",
     "events": {
       "connect": true,
       "disconnect": true,
